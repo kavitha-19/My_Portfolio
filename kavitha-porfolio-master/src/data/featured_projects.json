@@ -1,0 +1,50 @@
+{
+  "featured_projects": [
+    {
+      "id": 0,
+      "name": "VAST Challenge MC2",
+      "link": "https://visual-wheat.vercel.app/",
+      "description": "Developed detection models to identify anomalies in waterway samples, utilizing OpenRefine to process and clean a large dataset of 138,824 rows.\nImplemented a complex radial chart using D3.js to visualize 112 chemicals from 1998-2016, including 12 toxic chemicals.\nProposed changes in sampling approach and utilized Tableau and D3.js for interactive data visualization.",
+
+     
+      "colour": " #f44336",
+     
+     
+      "languages": [
+        { "name": "Visual Analytics", "color": "rgb(241, 224, 90)" },
+        { "name": "Tableau", "color": "rgb(100, 219, 255)" },
+        {"name": "Tableau", "color": "rgb(100, 219, 255)" },
+        {"name": "D3.js", "color": "rgb(100, 219, 255)" }
+      ]
+      
+    },
+    {
+      "id": 1,
+      "name": "Data Professional Survey Report",
+      "link": "https://github.com/kavitha-19/DataProfessionalSurveyPowerBIProject",
+      "description": "Executed a Power BI visualization project using a professional survey dataset, translating raw data into actionable insights from 630 survey takers.\nFindings include the highest average salary for Data scientists exceeding 90k+, with the United States being the largest contributor to Data professional jobs.",
+      "colour": "#23c788",
+      "languages": [
+        { "name": "Power BI", "color": "rgb(241, 224, 90)" },
+        { "name": "Power Query", "color": "rgb(86, 61, 124)" }
+        
+      ]
+      
+    },
+    {
+      "id": 2,
+      "name": "SQL Covid Data Exploration",
+      "link": "https://github.com/kavitha-19/SQLCovidDataExplorationProject",
+      "description": "Executed comprehensive SQL data analysis on COVID-19 metrics, extracting crucial insights that directly influenced strategic decision-making.\nEngineered a data visualization view, 'PercentPopulationVaccinated,' significantly enhancing the understanding of pandemic dynamics, leading to a 15% improvement in data-driven decision accuracy and resource allocation.",
+     
+      "colour": " #f44336",
+     
+     
+      "languages": [
+        { "name": "Microsoft SQL Server", "color": "rgb(241, 224, 90)" },
+        { "name": "SQL", "color": "rgb(100, 219, 255)" }
+      ]
+      
+    }
+  ]
+}

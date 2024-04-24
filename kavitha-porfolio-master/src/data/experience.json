@@ -1,0 +1,59 @@
+{
+  "experience": [
+  
+    {
+      "id": 0,
+   
+      "company": "Pranava EET",
+      "title": "web Development Intern",
+      "dateFrom": "Feb 2021",
+      "dateTo": "March 2021",
+      "info": [
+          "Created web pages with responsive design during internship, enhancing user interface accessibility",   
+          "Efficiently managed codebase using Git, collaborating with backend developers for seamless frontend integration."
+        ],
+      "stack": ["HTML5", "CSS", "Bootstrap", "JavaScript", "React", "NodeJS", "Git"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+     
+      "company": "Innovacx tech labs private limited",
+      "title": "Specialist Enterprise",
+      "dateFrom": "May 2021",
+      "dateTo": "August 2022",
+      "info": [
+        "Collaborated on developing a CRM application for Avery Dennison, tailoring it to meet client requirements.", 
+        "Implemented an Oracle service cloud mobile app,granting role-based access to 30 users, streamlining client-side operations.",
+        "Designed and deployed dashboards and reports to enhance business understanding"
+        
+      ],
+      "stack": ["Oracle CRM", "Groovy Script", "SQL"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "company": "Rowan University",
+      "title": "System Administrator (Deep Learning Class)",
+      "dateFrom": "Feb 2024",
+      "dateTo": "Present",
+      "info": [
+          "Managed 20 Linux accounts on a JupyterHub server hosted on Citrix, facilitating collaborative learning among classmates by providing shared resources.",
+          "Automated user account creation using a Bash script and integrated a usage monitoring interface into the JupyterHub control panel, ensuring efficient setup and enabling proactive enforcement of usage limits."
+        ],
+      "stack": ["Citrix", "JupyterHub", "Deep Learning", "Python", "Linux"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    }
+
+    
+      ]
+    }
+    
+  
+ 
